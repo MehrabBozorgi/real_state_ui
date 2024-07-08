@@ -1,16 +1,13 @@
-# real_state_ui
+🔥 برنامه نویسی با فلاتر رو بصورت پروژه محور و با کوچینگ یاد بگیری روی این لینک کلیک کن : https://programmingshow.ir 🔥
 
-A new Flutter project.
+😇 حمایت از ما : https://zarinp.al/programmingshow
 
-## Getting Started
+📱 پیج اینستاگرام : https://www.instagram.com/programming_show 
 
-This project is a starting point for a Flutter application.
+👨‍💻 گروه تلگرامی : https://t.me/programmingshow_public
 
-A few resources to get you started if this is your first Flutter project:
+📥 گیت هاب : https://github.com/MehrabBozorgi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ کانال یوتیوب : https://www.youtube.com/c/ProgrammingShow
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 21](https://github.com/MehrabBozorgi/real_state_ui/assets/78899995/59e4cafb-3556-45d6-aa25-8f7d4d0e1ab7)
